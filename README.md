@@ -1,5 +1,5 @@
 # Supervised---Regression
-Project unsupervised learning dengan Model Regression untuk memprediksi jumlah views youtube berdasarkan dataset (https://docs.google.com/spreadsheets/d/1udQirplaI0mAGJnuZPlPHPaxr7RtisYt/export?format=csv&gid=1632283680)
+Project supervised learning dengan Model Regression untuk memprediksi jumlah views youtube berdasarkan dataset (https://docs.google.com/spreadsheets/d/1udQirplaI0mAGJnuZPlPHPaxr7RtisYt/export?format=csv&gid=1632283680)
 
 # Overviews
 Goals : Memprediksi jumlah views di youtube berdasarkan fitur-fitur pada dataset yang dipilih <br>
